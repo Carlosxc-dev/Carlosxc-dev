@@ -6,6 +6,7 @@
 - 🔭 sou graduando em Engenharia da computacao na UNIFEI
 - 🌱 atualmente estou aprendendo HTML, CSS, JS
 - 👯 na faculdade estou praticando com a linguagem C
+- conceitos aprendidos 
 
 ##
 
