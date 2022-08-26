@@ -3,7 +3,7 @@
  
 - 😄 Tenho 23 anos , moro em Itajuba MG
 - 🔭 Sou graduando em Engenharia da computacao na UNIFEI
-- 🌱 Desvendando o mundo Front-end
+- 🌱 Desvendando o mundo web Fullstack
    
    
 <h1>contatos</h1>
