@@ -1,5 +1,4 @@
 <h2>Oii, sou Carlos Henrique, graduando em Engenharia da computacao na UNIFEI e dev frontend</h2>
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +11,7 @@
 
 ##
 
-<div style="display: block"><br>
+<div style="display: inline"><br>
   <a href="https://www.instagram.com/carloshenriquecruzxavier/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   <a href = "mailto:chcruz64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
