@@ -18,7 +18,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="right" alt="pic" height="300" width="300" style="border-radius:50px;" src="Gaming-bro.svg">
+  <img align="right" alt="pic" height="200" width="200" style="border-radius:50px;" src="Gaming-bro.svg">
 </div>
 
 ##
