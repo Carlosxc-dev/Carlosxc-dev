@@ -1,4 +1,4 @@
-<h2>Oii, sou Carlos Henrique, graduando em Engenharia da computacao e dev frontend</h2>
+<h2>Hi, I'm Carlos Henrique, majoring in computer engineering and frontend dev</h2>
 
 <div align="center">
   <a href="https://github.com/Carlosxc-dev">
