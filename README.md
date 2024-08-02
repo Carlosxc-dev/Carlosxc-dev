@@ -3,7 +3,7 @@
 <p >Eu sou estudante de engenharia da computacao na universidade federal de itajuba.</p>
 
 <img src="03_image.png">
-<div style="display: inline_block">
+<div style="width:100%;display: flex; justify-content: center; gap: 10px;">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
