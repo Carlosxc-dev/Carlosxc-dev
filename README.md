@@ -1,6 +1,6 @@
 <img src="LinkedIn cover - 1.png">
 
-<h3>Tecnologias</h3>
+<h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,7 +16,7 @@
  
 </div>
 
-<h3>Contact</h3>
+<h1>Contact</h1>
 <br>
 <div>
   <a align="center" href="https://www.instagram.com/carloshenriquecruzxavier/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,8 +24,4 @@
   <a align="center" href="https://www.linkedin.com/in/carlos-henrique-a65a54158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
 
-<div align="center"> 
-   <img align="center" alt="pic" height="300" width="300" color="blue" style="border-radius:50px;" src="Programming-pana.svg">
-</div>
-
-<img src="wave_under.png">
+<img src="wave2.png">
