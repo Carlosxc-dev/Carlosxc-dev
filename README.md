@@ -1,5 +1,7 @@
 <img src="01_image.png">
 
+<p >Eu sou estudante de engenharia da computacao na universidade federal de itajuba.</p>
+
 <img src="03_image.png">
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +19,7 @@
 
 <img src="04_image.png">
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="width:100%;display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.instagram.com/carloshenriquecruzxavier/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
@@ -29,8 +31,4 @@
   </a>
 </div>
 
-
-
-
 <img src="05_image.png">
-
