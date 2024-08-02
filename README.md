@@ -1,5 +1,7 @@
 <h2>Hi, I'm Carlos Henrique, majoring in computer engineering and frontend dev</h2>
 
+<img src="Programming-pana.svg">
+
 <h3>Tecnologias</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
