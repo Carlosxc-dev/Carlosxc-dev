@@ -1,6 +1,6 @@
 <h2>Hi, I'm Carlos Henrique, majoring in computer engineering and frontend dev</h2>
 
-<img src="Programming-pana.svg">
+<img src="LinkedIn cover - 1.png">
 
 <h3>Tecnologias</h3>
 <div style="display: inline_block"><br>
