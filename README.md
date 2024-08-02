@@ -1,4 +1,4 @@
-<img src="LinkedIn cover - 1.png">
+<img src="wave.png">
 
 <h1>Tecnologias</h1>
 <div style="display: inline_block">
