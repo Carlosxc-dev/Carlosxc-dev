@@ -1,5 +1,8 @@
 <h2>Hi, I'm Carlos Henrique, majoring in computer engineering and frontend dev</h2>
 
+![GitHub followers](https://img.shields.io/github/followers/carloshenrique?style=social) ![GitHub stars](https://img.shields.io/github/stars/carloshenrique?style=social) ![GitHub issues](https://img.shields.io/github/issues/carloshenrique?style=social) ![GitHub forks](https://img.shields.io/github/forks/carloshenrique?style=social)
+
+
 <div align="center">
   <a href="https://github.com/Carlosxc-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosxc-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
