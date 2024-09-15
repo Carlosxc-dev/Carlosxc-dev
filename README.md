@@ -1,4 +1,4 @@
-<img src="carlos_backenddev.gif">
+<img src="capa_github.gif">
 
 ### Languages
 
